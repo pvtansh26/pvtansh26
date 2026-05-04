@@ -10,7 +10,7 @@
 
 🚀 About Me
 
-🔭 I'm currently building: **Smart Vision – AI-powered real-time object detection system**
+🔭 I'm currently building: **Smart Vision – AI-powered Identity-Emotion-Tracker**
 🌱 I'm currently learning Node.js, Next.js, Python, AWS, AI/ML Integration
 👯 I'm looking to collaborate on Open Source Projects
 💬 Ask me about Full Stack (MERN) Development
@@ -88,6 +88,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pvtansh26&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvtansh26&layout=compact&theme=tokyonight" />
+</p>
 
 
 📈 Contribution Graph
